@@ -19,3 +19,4 @@ cat git.txt
 
 git restore --staged git.txt // move git.txt outside staging area
 
+git log
