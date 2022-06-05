@@ -11,4 +11,11 @@ git status
 git add . // all untracked file to staging area
 git add names.txt // only names.txt
 
+git status
+
+git commit -m "names.txt added" 
+
+cat git.txt
+
+git restore --staged git.txt // move git.txt outside staging area
 
