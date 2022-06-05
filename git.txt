@@ -1,0 +1,14 @@
+/Basic linux command
+mkdir project
+cd project
+ls 
+ls -a
+
+git init
+touch names.txt
+
+git status
+git add . // all untracked file to staging area
+git add names.txt // only names.txt
+
+
