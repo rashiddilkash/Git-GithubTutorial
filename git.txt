@@ -1,4 +1,4 @@
-/Basic linux command
+//Basic linux command
 mkdir project
 cd project
 ls 
@@ -27,3 +27,8 @@ git stash // moves from staging area to stash
 git stash pop // moves from stash to unstage area
 
 git stash clear
+
+git remote add origin https://github.com/rashiddilkash/Git-GithubTutorial.git
+git remote -v
+
+git push origin master
