@@ -32,3 +32,7 @@ git remote add origin https://github.com/rashiddilkash/Git-GithubTutorial.git
 git remote -v
 
 git push origin master
+git branch feature
+git checkout main
+
+git merge feature
