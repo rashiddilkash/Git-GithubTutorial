@@ -20,3 +20,8 @@ cat git.txt
 git restore --staged git.txt // move git.txt outside staging area
 
 git log
+
+git reset  cfbfcb6d5bc80198878eb6d1d8e228705dd7bde1 
+
+git stash // moves from staging area to stash
+git stash pop // moves from stash to front
